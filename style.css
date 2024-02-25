@@ -1,0 +1,10 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+
+.social-icons a {
+  text-decoration: none;
+  margin-right: 15px;
+  color: white;
+}
